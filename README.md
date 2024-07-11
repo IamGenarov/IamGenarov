@@ -58,7 +58,7 @@
 </kbd>
 
 <kbd>
-    <kbd>Back-end</kbd>
+    <kbd>Frameworks</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
