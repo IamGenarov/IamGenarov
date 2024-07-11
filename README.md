@@ -84,11 +84,11 @@
         <a href="#" title="Git"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
         <a href="#" title="Docker"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
         <a href="#" title="AWS"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a>
-        <a href="#" title="Linux"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+       <a href="#" title="Windows 11"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
         <a href="#" title="Arch Linux"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" /></a>
     </kbd>
 
-    <kbd>
+<kbd>
         <kbd>Tools</kbd>
         <br>
         <br>
