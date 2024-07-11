@@ -12,7 +12,7 @@
 ## About me
 
 - ⭐ Java Backend Developer
-- 🎥 Desarrollo de aplicaciones web en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1)
+- 🎥 Desarrollo de aplicaciones web en [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com)
 - 🐧 Linuxero
 
 ## Proyectos
