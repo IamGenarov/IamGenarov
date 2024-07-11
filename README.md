@@ -1,3 +1,22 @@
+<div align="center">
+    
+<h1 align="center">🌐 Hi, I'm <a href="https://beacons.ai/genarov">Genaro</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/OaETDsj.png">
+
+
+
+### 👨🏻‍💻 &nbsp;About Me
+💡 &nbsp;I enjoy exploring new technologies and developing software solutions.\
+🎓 &nbsp;Currently, I am studying Systems Engineering at Universidad Católica de Santa María.\
+✍️ &nbsp;In my free time, I work on projects and play chess.\
+💬 &nbsp;Feel free to contact me for pro bono consulting, volunteering, or simply for an interesting discussion.\
+✉️ &nbsp;You can email me at bck.genaro@gmail.com. I'll try to respond as soon as possible.\
+📄 &nbsp;Please have a look at my [CV]() for more details about me. I'm open to feedback and suggestions!
+<br>
+
+<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Coding.gif" align="right"/>
+
 ### 👨🏻‍💻 &nbsp;>Connect with me
 
 
