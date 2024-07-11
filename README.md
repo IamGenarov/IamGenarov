@@ -3,7 +3,7 @@
 ### 🌐 &nbsp;Hi, I'm 
 <h1 align="center"><a href="https://beacons.ai">Genaro</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/Tw7tmCF">
+<img src="https://imgur.com/F8l2uTO">
 
 
 
