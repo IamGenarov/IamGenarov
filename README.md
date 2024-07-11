@@ -14,8 +14,8 @@
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
 
 <br>
-<h2 align="left">Connect with me</h2>
-
+### 👨🏻‍💻 &nbsp;>Connect with me
+    
 <p align="center">
 <a href="https://twitter.com/bholajaivardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bholajaivardhan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaivardhan-bhola-773944214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaivardhan-bhola-773944214" height="30" width="40" /></a>
