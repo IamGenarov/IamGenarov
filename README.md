@@ -98,8 +98,11 @@
 </p>
 
 ### 🧰 &nbsp;Version Control 
-<span style="background-color: #F05033; color: white; padding: 5px 10px; border-radius: 4px;">Git</span>&nbsp;
-<span style="background-color: #121011; color: white; padding: 5px 10px; border-radius: 4px;">GitHub</span>&nbsp;
+<!-- Etiqueta de Git -->
+<img src="ruta/a/tu/imagen/git.png" alt="Git Badge" style="width: 100px; height: auto; cursor: default;">&nbsp;
+
+<!-- Etiqueta de GitHub -->
+<img src="ruta/a/tu/imagen/github.png" alt="GitHub Badge" style="width: 100px; height: auto; cursor: default;">&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
