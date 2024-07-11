@@ -99,12 +99,12 @@
 
 ### 🧰 &nbsp;Version Control 
 
-<a href="https://git-scm.com/" target="_blank">
+<a href="https://git-scm.com/doc" target="_blank">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Logo">
   </a>
   
   <!-- Enlace para GitHub -->
-  <a href="https://github.com/" target="_blank">
+  <a href="https://docs.github.com/en" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Logo">
   </a>
 
