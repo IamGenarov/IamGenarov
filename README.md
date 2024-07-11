@@ -15,7 +15,8 @@
 
 <br>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Coding.gif" align="right"/>
+
 
 
 ### 👨🏻‍💻 &nbsp;>Connect with me
@@ -58,6 +59,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 </kbd>
+
 
 
   <br>
