@@ -26,7 +26,7 @@
 <a href="https://instagram.com/jaivardhan-b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaivardhan-b" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jaivardhan-bhola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaivardhan-bhola" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jaivardhanbhola/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jaivardhanbhola/profile" height="30" width="40" /></a>
-</p>
+    
 ### 🛠 &nbsp;Tools
 <p style="display: inline-block;" align="center">
 <kbd>
