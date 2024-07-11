@@ -98,9 +98,9 @@
 </p>
 
 ### 🧰 &nbsp;Version Control 
+<span style="background-color: #F05033; color: white; padding: 5px 10px; border-radius: 4px;">Git</span>&nbsp;
+<span style="background-color: #121011; color: white; padding: 5px 10px; border-radius: 4px;">GitHub</span>&nbsp;
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
