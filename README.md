@@ -22,7 +22,6 @@
 ### 👨🏻‍💻 &nbsp;>Connect with me
 
 
-
 <p align="center">
     <a href="https://linkedin.com/in/jaivardhan-bhola-773944214" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -37,17 +36,16 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
     </a>
     <a href="https://www.youtube.com/channel/UCyourChannelID" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" height="30" width="40" />
+        <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="30" width="40" />
     </a>
     <a href="https://twitter.com/bholajaivardhan" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.twitch.tv/yourstream" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitch.svg" alt="Twitch" height="30" width="40" />
+        <img align="center" src="https://img.icons8.com/fluent/48/000000/twitch.png" alt="Twitch" height="30" width="40" />
     </a>
 </p>
-
 
     
 ### 🛠 &nbsp;Tools
