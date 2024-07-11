@@ -11,7 +11,7 @@
 🎓 &nbsp;Currently, I am studying Systems Engineering at Universidad Católica de Santa María.\
 ✍️ &nbsp;In my free time, I work on projects and play chess.\
 💬 &nbsp;Feel free to contact me for pro bono consulting, volunteering, or simply for an interesting discussion.\
-✉️ &nbsp;You can email me at bck.genaro@gmail.com. I'll try to respond as soon as possible.
+✉️ &nbsp;You can email me at bck.genaro@gmail.com. I'll try to respond as soon as possible.\
 📄 &nbsp;Please have a look at my [CV]() for more details about me. I'm open to feedback and suggestions!
 <br>
 
