@@ -7,12 +7,12 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying System Engineering at Catholic Santa Maria.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;I enjoy exploring new technologies and developing software solutions.\
+🎓 &nbsp;Currently, I am studying Systems Engineering at Universidad Católica de Santa María.\
+✍️ &nbsp;In my free time, I work on projects and play chess.\
+💬 &nbsp;Feel free to contact me for pro bono consulting, volunteering, or simply for an interesting discussion.\
+✉️ &nbsp;You can email me at bck.genaro@gmail.com. I'll try to respond as soon as possible.
+📄 &nbsp;Please have a look at my [CV]() for more details about me. I'm open to feedback and suggestions!
 <br>
 
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Coding.gif" align="right"/>
