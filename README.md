@@ -1,7 +1,6 @@
 <div align="center">
     
-### 🌐 &nbsp;Hi, I'm 
-<h1 align="center"><a href="https://beacons.ai">Genaro</a> 👋</h1>
+<h1 align="center">🌐 Hi, I'm <a href="https://beacons.ai">Genaro</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/OaETDsj.png">
 
