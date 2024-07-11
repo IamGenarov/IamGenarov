@@ -98,12 +98,15 @@
 </p>
 
 ### 🧰 &nbsp;Version Control 
-<!-- Etiqueta de Git -->
-<img src="ruta/a/tu/imagen/git.png" alt="Git Badge" style="width: 100px; height: auto; cursor: default; pointer-events: none;">&nbsp;
 
-<!-- Etiqueta de GitHub -->
-<img src="ruta/a/tu/imagen/github.png" alt="GitHub Badge" style="width: 100px; height: auto; cursor: default; pointer-events: none;">&nbsp;
-
+<a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Logo">
+  </a>
+  
+  <!-- Enlace para GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Logo">
+  </a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
