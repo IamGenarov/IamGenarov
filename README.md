@@ -99,10 +99,10 @@
 
 ### 🧰 &nbsp;Version Control 
 <!-- Etiqueta de Git -->
-<img src="ruta/a/tu/imagen/git.png" alt="Git Badge" style="width: 100px; height: auto; cursor: default;">&nbsp;
+<img src="ruta/a/tu/imagen/git.png" alt="Git Badge" style="width: 100px; height: auto; cursor: default; pointer-events: none;">&nbsp;
 
 <!-- Etiqueta de GitHub -->
-<img src="ruta/a/tu/imagen/github.png" alt="GitHub Badge" style="width: 100px; height: auto; cursor: default;">&nbsp;
+<img src="ruta/a/tu/imagen/github.png" alt="GitHub Badge" style="width: 100px; height: auto; cursor: default; pointer-events: none;">&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
