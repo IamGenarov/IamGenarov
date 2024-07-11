@@ -64,7 +64,7 @@
         <a href="#" title="Spring"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
     </kbd>
     
-    <kbd>
+<kbd>
         <kbd>Database</kbd>
         <br>
         <br>
@@ -73,10 +73,10 @@
         <a href="#" title="Cassandra"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" /></a>
     </kbd>
 
-    <br>
+<br>
     <br>
     
-    <kbd>
+<kbd>
         <kbd>System, Networking & Deployment</kbd>
         <br>
         <br>
