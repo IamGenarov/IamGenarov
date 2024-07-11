@@ -23,22 +23,22 @@
 
 
 <p align="center">
-    <a href="https://linkedin.com/in/jaivardhan-bhola-773944214" target="_blank">
+    <a href="https://www.linkedin.com/in/fabian-genaro-huamani-chuquimamani-382205319/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/17393492" target="_blank">
+    <a href="https://stackoverflow.com/users/26338264/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/jaivardhan-b" target="_blank">
+    <a href="https://instagram.com/iamgenarov" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
-    <a href="https://www.leetcode.com/jaivardhan-bhola" target="_blank">
+    <a href="https://leetcode.com/u/IamGenarov/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
     </a>
-    <a href="https://www.youtube.com/channel/UCyourChannelID" target="_blank">
+    <a href="https://www.youtube.com/channel/" target="_blank">
         <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="40" width="40" />
     </a>
-    <a href="https://twitter.com/bholajaivardhan" target="_blank">
+    <a href="https://twitter.com/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
     </a>
     &nbsp;&nbsp;
