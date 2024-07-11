@@ -47,7 +47,7 @@
 </p>
 
     
-### 🛠 &nbsp;Tools
+### 🛠 &nbsp;Technologies
 <p style="display: inline-block;" align="center">
 <kbd>
     <kbd>Programming Languages</kbd>
