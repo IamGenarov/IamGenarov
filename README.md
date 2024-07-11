@@ -1,10 +1,13 @@
 <div align="center">
   <h1>Hola, soy <a href="https://genarov.dev">Genarov</a>🐧</h1>
 </div>
+
+
 - [![YouTube Channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com)
 - [![Twitch](https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch)](https://www.twitch.tv)
 - [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/IamGenarov)
 - [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord)](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+
 
 ## About me
 
