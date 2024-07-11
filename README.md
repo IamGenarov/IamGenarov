@@ -20,33 +20,31 @@
 
 ### 👨🏻‍💻 &nbsp;>Connect with me
 
-
 <p align="center">
-    <a href="https://www.linkedin.com/in/fabian-genaro-huamani-chuquimamani-382205319/" target="_blank">
+    <a href="https://www.linkedin.com/in/fabian-genaro-huamani-chuquimamani-382205319/" target="_blank" title="LinkedIn">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/26338264/" target="_blank">
+    <a href="https://stackoverflow.com/users/26338264/" target="_blank" title="Stack Overflow">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/iamgenarov" target="_blank">
+    <a href="https://instagram.com/iamgenarov" target="_blank" title="Instagram">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
-    <a href="https://leetcode.com/u/IamGenarov/" target="_blank">
+    <a href="https://leetcode.com/u/IamGenarov/" target="_blank" title="LeetCode">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
     </a>
-    <a href="https://www.youtube.com/channel/" target="_blank">
+    <a href="https://www.youtube.com/channel/" target="_blank" title="YouTube">
         <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="40" width="40" />
     </a>
-    <a href="https://twitter.com/" target="_blank">
+    <a href="https://twitter.com/" target="_blank" title="Twitter">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.twitch.tv/yourstream" target="_blank">
+    <a href="https://www.twitch.tv/yourstream" target="_blank" title="Twitch">
         <img align="center" src="https://img.icons8.com/fluent/48/000000/twitch.png" alt="Twitch" height="40" width="40" />
     </a>
 </p>
 
-    
 ### 🛠 &nbsp;Technologies
 <p style="display: inline-block;" align="center">
 <kbd>
