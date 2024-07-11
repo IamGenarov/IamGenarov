@@ -1,6 +1,11 @@
+<div align="center">
+    
+### 🌐 &nbsp;Hi, I'm 
+<h1 align="center"><a href="https://beacons.ai">Genaro</a> 👋</h1>
+</div>
+<img src="https://imgur.com/a/Tw7tmCF">
 
 
-### 🌐 &nbsp;Hi, I'm Genaro
 
 ### 👨🏻‍💻 &nbsp;About Me
 
