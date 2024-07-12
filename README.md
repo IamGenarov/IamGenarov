@@ -64,7 +64,7 @@
         <a href="https://spring.io/" title="Spring" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
     </kbd>
 
-    <kbd>
+<kbd>
         <kbd>Database</kbd>
         <br>
         <br>
