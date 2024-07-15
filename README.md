@@ -59,8 +59,7 @@
     <kbd>Frameworks</kbd>
     <br>
     <br>
-    <a href="https://spring.io/projects/spring-framework" title="Spring Framework" target="_blank"><img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L_LUTlkNheoUGvjDaAILfnb9zn_2Rg9uFQ&s" /></a>
-    <a href="https://spring.io/projects/spring-boot" title="Spring Boot" target="_blank"><img width="30px" src="https://image.pngaaa.com/546/2459546-middle.png" /></a>
+    <a href="https://spring.io/projects/spring-framework" title="Spring Framework & Spring Boot" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
 </kbd>
 
 
