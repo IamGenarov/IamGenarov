@@ -59,8 +59,7 @@
         <kbd>Frameworks</kbd>
         <br>
         <br>
-        <a href="https://spring.io/" title="Spring Boot" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
-</kbd>
+        <a href="https://spring.io/projects/spring-boot" title="Spring Boot" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
         <a href="https://spring.io/" title="Spring" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
     </kbd>
 
