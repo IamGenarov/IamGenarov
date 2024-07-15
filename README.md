@@ -56,12 +56,13 @@
     </kbd>
 
 <kbd>
-        <kbd>Frameworks</kbd>
-        <br>
-        <br>
-        <a href="https://spring.io/projects/spring-boot" title="Spring Boot" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
-        <a href="https://spring.io/" title="Spring" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
-    </kbd>
+    <kbd>Frameworks</kbd>
+    <br>
+    <br>
+    <a href="https://spring.io/projects/spring-framework" title="Spring Framework" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
+    <a href="https://spring.io/projects/spring-boot" title="Spring Boot" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
+</kbd>
+
 
 <kbd>
         <kbd>Database</kbd>
@@ -83,7 +84,6 @@
         <a href="https://git-scm.com/doc" title="Git" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
         <a href="https://docs.docker.com/" title="Docker" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
         <a href="https://aws.amazon.com/documentation/" title="AWS" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a>
-        <a href="https://docs.microsoft.com/en-us/windows/" title="Windows 11" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
         <a href="https://wiki.archlinux.org/" title="Arch Linux" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" /></a>
     </kbd>
 
@@ -92,7 +92,6 @@
         <br>
         <br>
         <a href="https://www.jetbrains.com/idea/documentation/" title="IntelliJ IDEA" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /></a>
-        <a href="https://docs.microsoft.com/en-us/visualstudio/" title="Visual Studio" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
     </kbd>
 </p>
 
