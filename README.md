@@ -52,7 +52,6 @@
         <kbd>Programming Languages</kbd>
         <br>
         <br>
-        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></a>
         <a href="https://docs.oracle.com/en/java/" title="Java" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></a>
     </kbd>
 
@@ -60,7 +59,8 @@
         <kbd>Frameworks</kbd>
         <br>
         <br>
-        <a href="https://docs.microsoft.com/en-us/dotnet/core/" title=".NET Core" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></a>
+        <a href="https://spring.io/" title="Spring Boot" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
+</kbd>
         <a href="https://spring.io/" title="Spring" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
     </kbd>
 
