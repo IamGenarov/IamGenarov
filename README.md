@@ -49,14 +49,14 @@
 
 <p style="display: inline-block;" align="center">
     <kbd>
-        <kbd>Programming Languages</kbd>
+        <kbd>Programming Language</kbd>
         <br>
         <br>
         <a href="https://docs.oracle.com/en/java/" title="Java" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></a>
     </kbd>
 
 <kbd>
-    <kbd>Frameworks</kbd>
+    <kbd>Framework</kbd>
     <br>
     <br>
     <a href="https://spring.io/projects/spring-framework" title="Spring Framework & Spring Boot" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>
